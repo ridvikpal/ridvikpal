@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ridvik! </h1>
 <h3 align="center">Third Year Computer Engineering Student at the University Of Toronto</h3>
 
-- 🔭 I’m currently working on [MarkedUp](https://github.com/ridvikpal/MarkedUp), a stock viewer using the [TwelveData API](https://github.com/twelvedata/twelvedata-python) and PyQt5.
+- 🔭 Currently working on: **[MarkedUp](https://github.com/ridvikpal/MarkedUp), a stock viewer using the [TwelveData API](https://github.com/twelvedata/twelvedata-python) and PyQt5**.
 
-- 📫 How to reach me **pal.ridvik@gmail.com**
+- 📚 Currently learning: **Java and will make a project with it soon!**
+ 
+- 📫 How to reach me: **pal.ridvik@gmail.com**
 
-- ⚡ Fun fact **I love music (am an audiophile) and working out!**
+- ⚡ Fun fact: **I love music (am an audiophile) and working out!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
