@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ridvik! </h1>
 <h3 align="center">Third Year Computer Engineering Student at the University Of Toronto</h3>
 
-- 🔭 Currently working on: **[MarkedUp](https://github.com/ridvikpal/MarkedUp), a stock viewer using the [TwelveData API](https://github.com/twelvedata/twelvedata-python) and PyQt5**.
+- 🔭 Currently working on: **[RainyDay](https://github.com/ridvikpal/RainyDay), a weather app using the [WeatherAPI.com REST API](https://www.weatherapi.com/) and JavaFX**.
 
-- 📚 Currently learning: **Java and will make a project with it soon!**
+- 📚 Currently learning: **JavaFX for [RainyDay](https://github.com/ridvikpal/RainyDay)**
  
 - 📫 How to reach me: **pal.ridvik@gmail.com**
 
