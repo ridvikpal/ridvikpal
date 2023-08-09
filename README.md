@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ridvik! </h1>
 <h3 align="center">Third Year Computer Engineering Student at the University Of Toronto</h3>
 
-- 🔭 Currently working on: **[RainyDay](https://github.com/ridvikpal/RainyDay), a weather app using the [WeatherAPI.com REST API](https://www.weatherapi.com/) and JavaFX**.
+- 🔭 Currently working on: **Nothing &rarr; Busy with work!**.
 
-- 📚 Currently learning: **JavaFX for [RainyDay](https://github.com/ridvikpal/RainyDay)**
+- 📚 Currently learning: **The [Spring Framework](https://spring.io/) for my next project!**
  
-- 📫 How to reach me: **pal.ridvik@gmail.com**
+- 📫 How to reach me: **Email me at [pal.ridvik@gmail.com](pal.ridvik@gmail.com)**
 
 - ⚡ Fun fact: **I love music (am an audiophile) and working out!**
+
+- 🚩 Featured: **Check out my last project, [RainyDay](https://github.com/ridvikpal/RainyDay), a beautifully designed weather app built in Java and styled with CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
