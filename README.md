@@ -13,11 +13,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ridvikpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridvikpal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ridvikpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridvikpal" height="30" width=auto /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+
+<p align="left">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="icons/java_icon.png" alt="java" width=auto height="60"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/python_logo.png" alt="python" width=auto height="45"/> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="icons/C++_logo.svg" alt="cplusplus" width=auto height="55"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons/C_logo.svg" alt="c" width=auto height="55"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons/mysql_logo.png" alt="mysql" width=auto height="65"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/git_icon.png" alt="git" width=auto height="50"/> </a>
+    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="icons/qt_logo.png" alt="qt" width=auto height="55"/> </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="icons/linux_logo.png" alt="linux" width=auto height="55"/> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/bash_icon.png" alt="bash" width=auto height="60"/></a>
+</p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridvikpal&show_icons=true&locale=en&layout=compact" alt="ridvikpal" /></p> -->
 
