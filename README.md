@@ -28,7 +28,7 @@
     &nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons/mysql_logo.png" alt="mysql" width=auto height="65"/> </a>
     &nbsp;
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/spring_logo.png" alt="bash" width=auto height="50"/></a>
+    <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> <img src="icons/spring_logo.png" alt="bash" width=auto height="50"/></a>
     &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/git_icon.png" alt="git" width=auto height="50"/> </a>
     &nbsp;
