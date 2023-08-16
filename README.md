@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I love music (am an audiophile) and working out!**
 
-- 🚩 Featured: **Check out my last project, [RainyDay](https://github.com/ridvikpal/RainyDay), a beautifully designed weather app built in Java and styled with CSS**
+- 🚩 Featured: **Check out my latest project, [RainyDay](https://github.com/ridvikpal/RainyDay), a beautifully designed weather app built in Java and styled with CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
