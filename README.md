@@ -33,6 +33,8 @@
     &nbsp;
     <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> <img src="icons/spring_logo.png" alt="bash" width=auto height="50"/></a>
     &nbsp;
+    <a href="" target="_blank" rel="noreferrer"> <img src="icons/pandas_logo.png" alt="bash" width=auto height="60"/></a>
+    &nbsp;
     <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="icons/vba_logo.svg" alt="bash" width=auto height="60"/></a>
     &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/git_icon.png" alt="git" width=auto height="50"/> </a>
