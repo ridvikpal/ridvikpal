@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on: **[CarCost](https://github.com/ridvikpal/CarCost), an API built using the Java Spring Framework, MySQL, and a little bit of extra python for retreiving used car data**.
 
-- 📚 Currently learning: **The [Spring Framework](https://spring.io/) for CarCost**
+- 📚 Currently learning: **The [Spring Framework](https://spring.io/) for [CarCost](https://github.com/ridvikpal/CarCost)**
  
 - 📫 How to reach me: **Email me at [pal.ridvik@gmail.com](pal.ridvik@gmail.com)**
 
