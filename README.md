@@ -29,6 +29,8 @@
     &nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons/mysql_logo.png" alt="mysql" width=auto height="65"/> </a>
     &nbsp;
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="icons/spring_boot_logo.png" alt="bash" width=auto height="60"/></a>
+    &nbsp;
     <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> <img src="icons/spring_logo.png" alt="bash" width=auto height="50"/></a>
     &nbsp;
     <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="icons/vba_logo.svg" alt="bash" width=auto height="60"/></a>
