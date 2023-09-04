@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ridvik! </h1>
 <h3 align="center">Third Year Computer Engineering Student at the University Of Toronto</h3>
 
-- 🔭 Currently working on: **Nothing on GitHub&rarr; Busy with work!**.
+- 🔭 Currently working on: **[CarCost](https://github.com/ridvikpal/CarCost), an API built using the Java Spring Framework, MySQL, and a little bit of extra python for retreiving used car data**.
 
-- 📚 Currently learning: **The [Spring Framework](https://spring.io/) for my next project!**
+- 📚 Currently learning: **The [Spring Framework](https://spring.io/) for CarCost**
  
 - 📫 How to reach me: **Email me at [pal.ridvik@gmail.com](pal.ridvik@gmail.com)**
 
