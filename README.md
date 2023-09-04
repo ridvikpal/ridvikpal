@@ -43,7 +43,7 @@
     &nbsp;
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="icons/qt_logo.png" alt="qt" width=auto height="55"/> </a>
     &nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="icons/linux_logo.png" alt="linux" width=auto height="55"/> </a>
+    <a href="https://www.linux.com/what-is-linux/" target="_blank" rel="noreferrer"> <img src="icons/linux_logo.png" alt="linux" width=auto height="55"/> </a>
     &nbsp;
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/bash_icon.png" alt="bash" width=auto height="60"/></a>
     &nbsp;
