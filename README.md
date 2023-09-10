@@ -35,7 +35,7 @@
     &nbsp;
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="icons/postgresql_logo.png" alt="mysql" width=auto height="70"/> </a>
     &nbsp;
-    <a href="" target="_blank" rel="noreferrer"> <img src="icons/pandas_logo.png" alt="bash" width=auto height="60"/></a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="icons_outlined/pandas_logo_outlined.png" alt="bash" width=auto height="60"/></a>
     &nbsp;
     <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="icons/vba_logo.svg" alt="bash" width=auto height="60"/></a>
     &nbsp;
