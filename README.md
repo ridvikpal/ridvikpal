@@ -31,7 +31,7 @@
     &nbsp;
     <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> <img src="icons/spring_logo.png" alt="bash" width=auto height="50"/></a>
     &nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons/mysql_logo.png" alt="mysql" width=auto height="65"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons_outlined/mysql_logo_outlined.png" alt="mysql" width=auto height="65"/> </a>
     &nbsp;
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="icons/postgresql_logo.png" alt="mysql" width=auto height="70"/> </a>
     &nbsp;
