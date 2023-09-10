@@ -23,7 +23,7 @@
     &nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/python_logo.png" alt="python" width=auto height="45"/> </a>
     &nbsp;
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="icons/C++_logo.svg" alt="cplusplus" width=auto height="55"/> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="icons_outlined/C++_logo.png" alt="cplusplus" width=auto height="55"/> </a>
     &nbsp;
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons_outlined/C_logo_outlined.png" alt="c" width=auto height="55"/> </a>
     &nbsp;
