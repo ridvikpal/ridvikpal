@@ -25,7 +25,7 @@
     &nbsp;
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="icons/C++_logo.svg" alt="cplusplus" width=auto height="55"/> </a>
     &nbsp;
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons/C_logo.svg" alt="c" width=auto height="55"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons_outlined/C_logo_outlined.png" alt="c" width=auto height="55"/> </a>
     &nbsp;
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="icons/spring_boot_logo.png" alt="bash" width=auto height="60"/></a>
     &nbsp;
