@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridvik! </h1>
 <h3 align="center">Third Year Computer Engineering Student at the University Of Toronto</h3>
 
-- 🔭 Currently working on: **[CarCost](https://github.com/ridvikpal/CarCost), an API built using the Java Spring Framework, MySQL, and a little bit of extra python for retreiving used car data**.
+- 🔭 Currently working on: **[CarCost](https://github.com/ridvikpal/CarCost), a RESTful API built using Java Spring Boot, ChatGPT, and a huge MySQL database of used car listings!**.
 
 - 📚 Currently learning: **The [Spring Framework](https://spring.io/) for [CarCost](https://github.com/ridvikpal/CarCost)**
  
