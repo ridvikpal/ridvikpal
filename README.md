@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="icons/java_icon.png" alt="java" width=auto height="60"/> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="icons_outlined/java_icon_outlined.png" alt="java" width=auto height="60"/> </a>
     &nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/python_logo.png" alt="python" width=auto height="45"/> </a>
     &nbsp;
