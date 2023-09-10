@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ridvikpal" target="blank"><img align="center" src="icons_outlined/linkedin_logo_outlined.png" alt="ridvikpal" height="40" width=auto /></a>
+<a href="https://www.linkedin.com/in/ridvik-pal/" target="blank"><img align="center" src="icons_outlined/linkedin_logo_outlined.png" alt="ridvikpal" height="40" width=auto /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
