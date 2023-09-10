@@ -33,7 +33,7 @@
     &nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons_outlined/mysql_logo_outlined.png" alt="mysql" width=auto height="65"/> </a>
     &nbsp;
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="icons/postgresql_logo.png" alt="mysql" width=auto height="70"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="icons_outlined/postgresql_logo_outlined.png" alt="mysql" width=auto height="70"/> </a>
     &nbsp;
     <a href="" target="_blank" rel="noreferrer"> <img src="icons_outlined/pandas_logo_outlined.png" alt="bash" width=auto height="60"/></a>
     &nbsp;
