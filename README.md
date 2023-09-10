@@ -21,15 +21,15 @@
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="icons_outlined/java_icon_outlined.png" alt="java" width=auto height="60"/> </a>
     &nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/python_logo.png" alt="python" width=auto height="45"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons_outlined/python_logo_outlined.png" alt="python" width=auto height="45"/> </a>
     &nbsp;
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="icons_outlined/C++_logo.png" alt="cplusplus" width=auto height="55"/> </a>
     &nbsp;
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons_outlined/C_logo_outlined.png" alt="c" width=auto height="55"/> </a>
     &nbsp;
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="icons/spring_boot_logo.png" alt="bash" width=auto height="60"/></a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="icons_outlined/spring_boot_logo_outlined.png" alt="bash" width=auto height="60"/></a>
     &nbsp;
-    <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> <img src="icons/spring_logo.png" alt="bash" width=auto height="50"/></a>
+    <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> <img src="icons_outlined/spring_logo_outlined.png" alt="bash" width=auto height="50"/></a>
     &nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons_outlined/mysql_logo_outlined.png" alt="mysql" width=auto height="65"/> </a>
     &nbsp;
@@ -37,11 +37,11 @@
     &nbsp;
     <a href="" target="_blank" rel="noreferrer"> <img src="icons_outlined/pandas_logo_outlined.png" alt="bash" width=auto height="60"/></a>
     &nbsp;
-    <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="icons/vba_logo.svg" alt="bash" width=auto height="60"/></a>
+    <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="icons_outlined/vba_logo_outlined.png" alt="bash" width=auto height="60"/></a>
     &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons_outlined/git_icon_outlined.png" alt="git" width=auto height="50"/> </a>
     &nbsp;
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="icons/qt_logo.png" alt="qt" width=auto height="55"/> </a>
+    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="icons_outlined/qt_logo_outlined.png" alt="qt" width=auto height="55"/> </a>
     &nbsp;
     <a href="https://www.linux.com/what-is-linux/" target="_blank" rel="noreferrer"> <img src="icons_outlined/linux_logo_outlined.png" alt="linux" width=auto height="55"/> </a>
     &nbsp;
