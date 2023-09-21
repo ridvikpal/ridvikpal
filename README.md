@@ -5,7 +5,7 @@
 
 - 📚 Currently learning: **A lot of math for university!**
  
-- 📫 How to reach me: **Email me at [pal.ridvik@gmail.com](pal.ridvik@gmail.com)**
+- 📫 How to reach me: **Email me at [pal.ridvik@gmail.com](mailto:pal.ridvik@gmail.com)**
 
 - ⚡ Fun fact: **I love music (am an audiophile) and working out!**
 
