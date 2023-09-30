@@ -7,7 +7,7 @@
  
 - 📫 How to reach me: **Email me at [pal.ridvik@gmail.com](mailto:pal.ridvik@gmail.com)**
 
-- ⚡ Fun fact: **I love music (am an audiophile) and working out!**
+- ⚡ Fun fact: **I love stock market investing, music (am an audiophile) and lifting weights!**
 
 - 🚩 Featured: **Check out my latest project, [CarCostAPI](https://github.com/ridvikpal/CarCartAPI), a REST API for used car listings with integrated ChatGPT recommendations!**
 
